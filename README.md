@@ -10,7 +10,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin: 0;
 padding: 0;
 background-color: #f4f4f4;
-color: #333;
+color: #87CEEB
 line-height: 1.6;
 height: 100%; /* For scrollability */
 overflow-y: auto; /* Enable vertical scrolling */
