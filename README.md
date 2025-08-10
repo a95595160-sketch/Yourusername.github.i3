@@ -205,6 +205,7 @@ color: #4CAF50;
 <p>این سایت محلی برای یادگیری ریاضیات است. ما منابع آموزشی متنوعی شامل ویدیوها و ابزارهای تعاملی را برای شما فراهم کرده‌ایم.</p>
 <p>مدیر سایت: امیرمحمد افضلی</p>
 </section>
+<a href="https://mathwithafzali.com" target="_blank">math with afzali</a>
 
 <section id="register-section">
 <h2>ثبت نام</h2>
